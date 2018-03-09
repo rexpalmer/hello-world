@@ -1,2 +1,4 @@
 # hello-world
-tutorial exercise
+tutorial exercise <br/>
+The quick red fox jumps over the lazy brown dog. <br/>
+More edits
